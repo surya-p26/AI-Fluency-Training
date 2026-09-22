@@ -1,0 +1,37 @@
+{
+    "student": {
+        "name": "Student",
+        "semester": 4,
+        "department": "Computer Science and Engineering"
+    },
+    "assignments": [
+        {
+            "id": 1,
+            "subject": "Database Management System",
+            "task": "SQL Assignment",
+            "deadline": "2026-09-23",
+            "status": "pending"
+        },
+        {
+            "id": 2,
+            "subject": "Operating Systems",
+            "task": "Process Scheduling Report",
+            "deadline": "2026-09-25",
+            "status": "pending"
+        },
+        {
+            "id": 3,
+            "subject": "Computer Networks",
+            "task": "Network Topology Exercise",
+            "deadline": "2026-09-30",
+            "status": "completed"
+        },
+        {
+            "id": 4,
+            "subject": "Artificial Intelligence",
+            "task": "AI Agent Lab",
+            "deadline": "2026-09-24",
+            "status": "pending"
+        }
+    ]
+}
